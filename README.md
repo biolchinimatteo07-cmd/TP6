@@ -101,25 +101,6 @@ Dimitri Payet est devenu bien plus qu'un joueur : une légende vivante de l'OM. 
 
 ---
 
-### **André-Pierre GIGNAC** - "APG, le Martégal"
-![André-Pierre Gignac](./images/gignac.jpg)
-
-**🏅 Période à l'OM** : 2010-2015
-
-**📊 Statistiques** :
-- 188 matchs avec l'OM
-- 77 buts
-- Meilleur buteur du club sur trois saisons
-
-**🏆 Palmarès avec l'OM** :
-- 2x Coupe de la Ligue (2011, 2012)
-- Vice-champion de France 2011
-
-**💎 Le joueur** :
-Natif de Martigues (région marseillaise), André-Pierre Gignac incarne le pur produit local devenu star. Après des débuts difficiles, il s'impose comme un buteur implacable et atypique, capable de marquer depuis l'extérieur de la surface ou par des gestes acrobatiques. Son travail acharné et son abnégation en font un chouchou du Vélodrome. Parti au Mexique en 2015, il y est devenu une véritable légende des Tigres UANL avec plus de 200 buts !
-
----
-
 ### **Chris WADDLE** - "Magic Chris"
 ![Chris Waddle](./images/waddle.jpg)
 
@@ -134,20 +115,6 @@ L'ailier anglais recruté personnellement par Bernard Tapie devient instantaném
 
 ---
 
-### **Didier DROGBA** - "Le Guerrier"
-![Didier Drogba](./images/drogba.jpg)
-
-**🏅 Période à l'OM** : 2003-2004
-
-**📊 Statistiques** :
-- 1 saison explosive
-- 19 buts en 35 matchs
-- Révélation du championnat
-
-**💎 Le joueur** :
-Une seule saison, mais quelle saison ! Arrivé du Mans en 2003, Didier Drogba explose littéralement sous le maillot marseillais. Sa puissance physique, son sens du but et son charisme en font LA révélation de la saison 2003-2004. Il permet à l'OM d'atteindre la finale de la Coupe UEFA. Son transfert à Chelsea l'année suivante pour 38 millions d'euros reste l'un des plus importants de l'histoire du club. Il restera à jamais dans le cœur des supporters marseillais.
-
----
 
 ### **Basile BOLI** - "Le Héros de Munich"
 ![Basile Boli](./images/boli.jpg)
@@ -166,50 +133,11 @@ Défenseur rugueux et charismatique, Basile Boli est le symbole de la conquête 
 
 ---
 
-### **Mamadou NIANG** - "Le Roi des Classicos"
-![Mamadou Niang](./images/niang.jpg)
-
-**🏅 Période à l'OM** : 2005-2011
-
-**📊 Statistiques** :
-- 6 saisons
-- Plus de 100 buts en carrière L1
-- Roi des Classicos OM-PSG
-
-**🏆 Palmarès avec l'OM** :
-- Champion de France 2010
-- 2x Coupe de la Ligue (2010, 2011)
-
-**💎 Le joueur** :
-Mamadou Niang est L'homme des grands rendez-vous. Buteur redoutable et joueur de caractère, il marque les esprits notamment lors des Classicos contre le PSG. Partenaire d'attaque de Djibril Cissé puis de Brandão, il participe activement au titre de champion 2010 sous Didier Deschamps. Son abnégation et sa générosité sur le terrain en font un joueur adoré du Vélodrome.
-
----
-
-### **Steve MANDANDA** - "Le Phénomène"
-![Steve Mandanda](./images/mandanda.jpg)
-
-**🏅 Période à l'OM** : 2007-2016, 2017-2024
-
-**📊 Statistiques** :
-- Plus de 600 matchs avec l'OM
-- Joueur le plus capé de l'histoire du club en L1 (469 matchs)
-- Capitaine emblématique
-
-**🏆 Palmarès avec l'OM** :
-- Champion de France 2010
-- 3x Coupe de la Ligue (2010, 2011, 2012)
-- 2x Trophée des Champions
-
-**💎 Le joueur** :
-Steve Mandanda incarne la longévité et la fidélité. Surnommé "Le Phénomène" pour ses arrêts décisifs, ce gardien international français a été le dernier rempart de l'OM pendant près de 17 ans. Capitaine charismatique, il est le recordman absolu des matchs joués en Ligue 1 avec le maillot marseillais. Une légende absolue du club.
-
----
-
 ## 🏆 PALMARÈS COMPLET
 
 ### **Trophées Majeurs**
 - 🏆 **1x Ligue des Champions** (1993) - UNIQUE POUR UN CLUB FRANÇAIS
-- 🏆 **10x Champion de France** (1937, 1948, 1971, 1972, 1989, 1990, 1991, 1992, 2010)
+- 🏆 **10x Champion de France** (1937, 1948, 1971, 1972, 1989, 1990, 1991, 1992, 1993, 2010)
 - 🏆 **10x Coupe de France** (1924, 1926, 1927, 1935, 1938, 1943, 1969, 1972, 1976, 1989)
 - 🏆 **3x Coupe de la Ligue** (2010, 2011, 2012)
 - 🏆 **3x Trophée des Champions** (2010, 2011, 2015)
@@ -243,73 +171,3 @@ L'Olympique de Marseille n'est pas qu'un club de football, c'est une institution
 *Les seuls, l'unique club français Champion d'Europe.*
 
 ---
-
-## 📷 Instructions pour les images
-
-Pour compléter ce projet, créez un dossier `images/` à la racine de votre repository GitHub et ajoutez les images suivantes :
-
-### Images à télécharger :
-
-1. **logo-om.png** - Logo officiel de l'OM
-   - Recherche suggérée : "logo OM officiel PNG"
-   
-2. **papin.jpg** - Photo de Jean-Pierre Papin sous le maillot de l'OM
-   - Recherche suggérée : "Jean-Pierre Papin OM photo"
-
-3. **payet.jpg** - Photo de Dimitri Payet
-   - Recherche suggérée : "Dimitri Payet OM photo"
-
-4. **gignac.jpg** - Photo d'André-Pierre Gignac
-   - Recherche suggérée : "André-Pierre Gignac OM photo"
-
-5. **waddle.jpg** - Photo de Chris Waddle
-   - Recherche suggérée : "Chris Waddle OM photo"
-
-6. **drogba.jpg** - Photo de Didier Drogba sous le maillot de l'OM
-   - Recherche suggérée : "Didier Drogba OM photo"
-
-7. **boli.jpg** - Photo de Basile Boli
-   - Recherche suggérée : "Basile Boli OM photo"
-
-8. **niang.jpg** - Photo de Mamadou Niang
-   - Recherche suggérée : "Mamadou Niang OM photo"
-
-9. **mandanda.jpg** - Photo de Steve Mandanda
-   - Recherche suggérée : "Steve Mandanda OM photo"
-
-10. **velodrome.jpg** - Photo du Stade Vélodrome
-    - Recherche suggérée : "Stade Vélodrome photo"
-
-### Structure du projet :
-```
-votre-repo/
-├── README.md (ou histoire-om.md)
-└── images/
-    ├── logo-om.png
-    ├── papin.jpg
-    ├── payet.jpg
-    ├── gignac.jpg
-    ├── waddle.jpg
-    ├── drogba.jpg
-    ├── boli.jpg
-    ├── niang.jpg
-    ├── mandanda.jpg
-    └── velodrome.jpg
-```
-
-**Astuce** : Vous pouvez trouver des images libres de droits sur :
-- Wikimedia Commons
-- Les sites officiels des clubs
-- Getty Images (pour usage personnel)
-- Google Images (filtrer par droits d'utilisation)
-
----
-
-### Sources & Crédits
-Ce document retrace l'histoire glorieuse de l'Olympique de Marseille, de sa création en 1899 jusqu'à nos jours.
-
-**Allez l'OM ! 🔵⚪**
-
----
-
-> *"Droit au but" - Devise de l'Olympique de Marseille*
