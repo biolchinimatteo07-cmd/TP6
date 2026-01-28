@@ -31,7 +31,7 @@ Bernard Tapie rachète l'OM et transforme le club en géant européen :
 - **1989** : Coupe de France avec un triplé de Papin
 - **1991** : Finale de C1 perdue à Bari (0-0, 5-3 t.a.b)
 - **26 MAI 1993** : 🏆 **VICTOIRE EN LIGUE DES CHAMPIONS** à Munich face au Milan AC (1-0, but de Basile Boli)
-  - Seul club français à avoir remporté la C1
+  - Premier club français à avoir remporté la C1
   - L'OM au sommet de l'Europe !
 - **1993-1994** : L'affaire VA-OM et la rétrogradation en D2
 
@@ -156,7 +156,7 @@ Défenseur rugueux et charismatique, Basile Boli est le symbole de la conquête 
 **Inauguré en 1937**, le Stade Vélodrome est l'une des enceintes mythiques du football mondial.
 
 - **Capacité actuelle** : 67 000 places
-- **Surnom** : "Le Chaudron", "L'Orange Vélodrome"
+- **Surnom** : "Le volcan", "L'Orange Vélodrome"
 - **Atmosphere légendaire** : Les supporters marseillais sont réputés parmi les plus passionnés d'Europe
 - **Rénovation** : Modernisé pour l'Euro 2016 avec son toit iconique
 
