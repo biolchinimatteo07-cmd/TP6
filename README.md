@@ -1,7 +1,7 @@
 # 🔵⚪ L'OLYMPIQUE DE MARSEILLE
 ## Une légende du football français
 
-![Logo OM](./images/logo-om.png)
+![Logo OM](./images/logo-om.jpg)
 
 ---
 
